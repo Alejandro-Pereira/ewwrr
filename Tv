@@ -1,0 +1,174 @@
+#EXTM3U
+
+
+#EXTINF: -1, Las Estrellas
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/158.ts
+
+#EXTINF:-1,LAS ESTRELLAS HD MX 2
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1606.ts
+
+#EXTINF: -1, Azteca UNO 
+
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
+#EXTINF: -1, Canal 5
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/258.ts
+
+#EXTINF:-1,CANAL 5 HD MX 2
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1610.ts
+
+#EXTINF: -1, Imagen TV
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/277.ts
+
+#EXTINF: -1, Azteca 7
+
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
+#EXTINF:-1,AZTECA 7 HD MX 2
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1608.ts
+
+#EXTINF: -1, Gala TV
+
+http://23.237.122.82:8080/GalaTVHD/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=90 
+
+#EXTINF: -1, Gala TV
+
+http://23.237.122.82:8080/GalaTVHD/index.m3u8?username=test04&password=1122&token=8a1a7c905127fbc53ed103cbe6c1df8e&ch_id=90
+
+#EXTINF:-1, Univisión
+
+http://wohuogai.com:37000/55811/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Distrito Comedia
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/335.ts
+
+#EXTINF: -1, Unicable
+
+http://23.237.122.82:8080/Unicable/index.m3u8?
+
+#EXTINF: -1,Animal planet 1
+
+http://wohuogai.com:37000/58816/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1,Animal planet 2
+
+http://23.237.94.2:37000/58816/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1,  Univisión
+
+http://wohuogai.com:37000/55811/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Fox Sport
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/229.ts
+
+#EXTINF: -1, Fox Sport 2
+
+http://iptv.wtf:80/live/qlqtrxhv/H0cU7oe1x9/335.m3u8
+
+#EXTINF: -1, Espn
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/226.ts
+
+#EXTINF:-1,NORTE ESPN 1 HD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/2024.ts
+
+#EXTINF:-1,NORTE ESPN 2 HD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/2025.ts
+
+#EXTINF: -1, TUDN
+
+https://ul.cdn946.net:8443/hls/r9f4n0w56rl0267.m3u8?s=-uhJB9l7Q1w7tn_NLYC0Wg&e=1571356749
+
+#EXTINF: -1, TUDN 2
+
+http://plexonline.club:25461/live/APOYAESTALISTA/IPTVACTIVADOR/232.ts
+
+#EXTINF:-1,CINEMAX FHD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1934.ts
+
+#EXTINF:-1,SPACE HD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/2052.ts
+
+#EXTINF:-1,FOX PREMIUM MOVIES
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/2051.ts
+
+#EXTINF:-1,FOX PREMIUM CINEMA FHD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1946.ts
+
+#EXTINF:-1,FOX PREMIUM FAMILY FHD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1945.ts
+
+#EXTINF:-1,FOX PREMIUM COMEDY FHD
+
+http://iptvnc.club:8080/live/Iptv_Nc/iptvlatino/1944.ts
+
+#EXTINF: -1, Cinemax
+
+http://23.237.22.207:8000/tvonlinehd/34_.m3u8?md5=7Ea-MuObTZPQ4cmWlLoSjg&expires=1571371170
+
+#EXTINF: -1, Cinemax 2
+
+http://23.237.22.207:8000/tvonlinehd/34_.m3u8?md5=Y3TsAR9l3X5C-7wRK2IVaQ&expires=1571371607
+
+#EXTINF: -1, HBO 2
+
+http://23.237.22.207:8000/tvonlinehd/36_.m3u8?md5=HXd4qXSGz2_DoGJ1J4HLMg&expires=1571371769
+
+#EXTINF: -1, Fox Family
+
+http://23.237.78.66:37000/60668/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Fox Family 2
+
+http://wohuogai.com:37000/60668/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Fox cinema
+
+http://23.237.94.2:37000/58735/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Fox cinema
+
+http://wohuogai.com:37000/58735/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Cine latino
+
+http://23.237.78.66:37000/10579/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Cine latino 2
+
+http://wohuogai.com:37000/10579/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Warner
+
+http://23.237.22.207:8000/tvonlinehd/96_.m3u8?md5=CtNKtETzgHuRU4opQv1BTQ&expires=1571371949
+
+#EXTINF: -1, TNT
+
+http://23.237.22.207:8000/tvonlinehd/31_.m3u8?md5=qtAzJISnf6Fmiv4KOQhaVg&expires=1571371866
+
+#EXTINF: -1,  Max prime
+
+http://wohuogai.com:37000/60519/tracks-v1a1/mono.m3u8?
+
+#EXTINF: -1, Fox
+
+http://23.237.94.2:37000/58738/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1, Fox 2
+
+http://wohuogai.com:37000/58738/tracks-v1a1/mono.m3u8?
